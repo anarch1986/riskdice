@@ -71,3 +71,4 @@ def result():
 
 roll()
 result()
+print("That is all folks.")
